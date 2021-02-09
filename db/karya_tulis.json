@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "tema":"ibu dan anak",
+        "judul":"mama sayang anak",
+        "hasil_nilai":10,
+        "nim":1,
+        "nid":1001
+    },
+    {
+        "id":2,
+        "tema":"pacaran",
+        "judul":"jangan pacaran berdua",
+        "hasil_nilai":8,
+        "nim":2,
+        "nid":1002
+    },
+    {
+        "id":3,
+        "tema":"isu sosial",
+        "judul":"friendzone sangat berbahaya",
+        "hasil_nilai":5,
+        "nim":3,
+        "nid":1003
+    },
+    {
+        "id":4,
+        "tema":"uang",
+        "judul":"kanker (kantong kering)",
+        "hasil_nilai":9,
+        "nim":4,
+        "nid":1004
+    }    
+]
